@@ -1,5 +1,3 @@
-# bs017B
-bs017B宿舍报修与服务管理小程序源码 Java SpringBoot3 Vue3 文档 PPT
 ## 源码问题查看主页咨询
 
 ### 一、关键词
